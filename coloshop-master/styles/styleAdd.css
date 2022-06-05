@@ -1,0 +1,9 @@
+.chat-bot{
+    position:fixed;bottom:20px;right:0px;z-index:1000;border:none;width:350px
+}
+.button-messenger{
+
+}
+.button-hidden{
+    position:absolute;top:5px;right:10px;font-size:30px;border:none;color:white;background:none
+}
